@@ -1,0 +1,80 @@
+concent = false
+first-time = true
+DebUI
+distribution = none
+version = none
+flatpak_installed = false
+snap_installed = false
+
+## concent.sh
+Attention !
+Ce Script n'est qu'un petit projet pour les OS en base Debian
+En continuant, vous consentez à potentiellement casser votre système,
+Installer ou manipuler les données stockées sur votre OS.
+DebUI reste un projet open source sur GitHub.
+Pour en savoir plus, veuillez lire le ficher README.md
+Y. Accepter
+N. Refuser
+Choisissez une option : 
+Refus de concentement, arrêt du script...
+
+
+
+
+
+
+
+
+
+## home.sh
+Version 0.1
+1. Mettre à jour le système
+2. Effectuer une autre tâche
+3. Quitter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## first_time.sh
+DebUI est un outil libre pour la gestion de votre système à base Debian.
+Avant d'utiliser DebUI, nous allons vous poser quelques questions,
+afin de mieux connaître votre environnement et vos préférences.
+Détection de la distribution...
+La distribution détectée est : 
+Paramétrage du / des gestionnaire(s) de paquets...
+Vous possédez déjà : 
+Quel(s) gestionnaire(s) de paquets voulez-vous utiliser ?
+1. apt seul (Absence de nombreux paquets)
+2. apt + flatpak (recommandé pour Debian)
+3. apt + snap
+4. apt + snap + flatpak (expérimental)
+
+
+
+
+
+
+
+## sudo
+Mot de passe correct !
+Execution du script...
+Mot de passe incorrect.
+Arrêt du script...
+
+
+
+
+
+
+
